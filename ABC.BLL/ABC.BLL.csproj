@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ABC.DAL\ABC.DAL.csproj" />
+    <ProjectReference Include="..\ABC.DTO\ABC.DTO.csproj" />
+    <ProjectReference Include="..\ABC.Model\ABC.Model.csproj" />
+    <ProjectReference Include="..\ABC.Utility\ABC.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

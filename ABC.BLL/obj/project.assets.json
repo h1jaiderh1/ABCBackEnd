@@ -1,0 +1,154 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "ABC.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ABC.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ABC.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ABC.DAL.dll": {}
+        }
+      },
+      "ABC.DTO/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ABC.DTO.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ABC.DTO.dll": {}
+        }
+      },
+      "ABC.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ABC.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ABC.Model.dll": {}
+        }
+      },
+      "ABC.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ABC.DTO": "1.0.0",
+          "ABC.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ABC.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ABC.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABC.DAL/1.0.0": {
+      "type": "project",
+      "path": "../ABC.DAL/ABC.DAL.csproj",
+      "msbuildProject": "../ABC.DAL/ABC.DAL.csproj"
+    },
+    "ABC.DTO/1.0.0": {
+      "type": "project",
+      "path": "../ABC.DTO/ABC.DTO.csproj",
+      "msbuildProject": "../ABC.DTO/ABC.DTO.csproj"
+    },
+    "ABC.Model/1.0.0": {
+      "type": "project",
+      "path": "../ABC.Model/ABC.Model.csproj",
+      "msbuildProject": "../ABC.Model/ABC.Model.csproj"
+    },
+    "ABC.Utility/1.0.0": {
+      "type": "project",
+      "path": "../ABC.Utility/ABC.Utility.csproj",
+      "msbuildProject": "../ABC.Utility/ABC.Utility.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "ABC.DAL >= 1.0.0",
+      "ABC.DTO >= 1.0.0",
+      "ABC.Model >= 1.0.0",
+      "ABC.Utility >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\J\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.BLL\\ABC.BLL.csproj",
+      "projectName": "ABC.BLL",
+      "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.BLL\\ABC.BLL.csproj",
+      "packagesPath": "C:\\Users\\J\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.BLL\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DAL\\ABC.DAL.csproj": {
+              "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DAL\\ABC.DAL.csproj"
+            },
+            "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DTO\\ABC.DTO.csproj": {
+              "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DTO\\ABC.DTO.csproj"
+            },
+            "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Model\\ABC.Model.csproj": {
+              "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Model\\ABC.Model.csproj"
+            },
+            "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Utility\\ABC.Utility.csproj": {
+              "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Utility\\ABC.Utility.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

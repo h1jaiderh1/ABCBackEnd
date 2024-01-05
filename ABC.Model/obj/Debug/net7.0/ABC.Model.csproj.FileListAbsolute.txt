@@ -1,0 +1,14 @@
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\bin\Debug\net7.0\ABC.Model.deps.json
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\bin\Debug\net7.0\ABC.Model.runtimeconfig.json
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\bin\Debug\net7.0\ABC.Model.dll
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\bin\Debug\net7.0\ABC.Model.pdb
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\obj\Debug\net7.0\ABC.Model.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\obj\Debug\net7.0\ABC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\obj\Debug\net7.0\ABC.Model.AssemblyInfoInputs.cache
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\obj\Debug\net7.0\ABC.Model.AssemblyInfo.cs
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\obj\Debug\net7.0\ABC.Model.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\obj\Debug\net7.0\ABC.Model.dll
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\obj\Debug\net7.0\refint\ABC.Model.dll
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\obj\Debug\net7.0\ABC.Model.pdb
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\obj\Debug\net7.0\ABC.Model.genruntimeconfig.cache
+C:\Users\J\Desktop\ABC\APIABC\ABC.Model\obj\Debug\net7.0\ref\ABC.Model.dll

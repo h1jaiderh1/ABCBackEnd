@@ -1,0 +1,423 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.API\\ABC.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.API\\ABC.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.API\\ABC.API.csproj",
+        "projectName": "ABC.API",
+        "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.API\\ABC.API.csproj",
+        "packagesPath": "C:\\Users\\J\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.BLL\\ABC.BLL.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.BLL\\ABC.BLL.csproj"
+              },
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DTO\\ABC.DTO.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DTO\\ABC.DTO.csproj"
+              },
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.IOC\\ABC.IOC.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.IOC\\ABC.IOC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.BLL\\ABC.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.BLL\\ABC.BLL.csproj",
+        "projectName": "ABC.BLL",
+        "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.BLL\\ABC.BLL.csproj",
+        "packagesPath": "C:\\Users\\J\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DAL\\ABC.DAL.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DAL\\ABC.DAL.csproj"
+              },
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DTO\\ABC.DTO.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DTO\\ABC.DTO.csproj"
+              },
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Model\\ABC.Model.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Model\\ABC.Model.csproj"
+              },
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Utility\\ABC.Utility.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Utility\\ABC.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DAL\\ABC.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DAL\\ABC.DAL.csproj",
+        "projectName": "ABC.DAL",
+        "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DAL\\ABC.DAL.csproj",
+        "packagesPath": "C:\\Users\\J\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Model\\ABC.Model.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Model\\ABC.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DTO\\ABC.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DTO\\ABC.DTO.csproj",
+        "projectName": "ABC.DTO",
+        "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DTO\\ABC.DTO.csproj",
+        "packagesPath": "C:\\Users\\J\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.IOC\\ABC.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.IOC\\ABC.IOC.csproj",
+        "projectName": "ABC.IOC",
+        "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.IOC\\ABC.IOC.csproj",
+        "packagesPath": "C:\\Users\\J\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.BLL\\ABC.BLL.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.BLL\\ABC.BLL.csproj"
+              },
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DAL\\ABC.DAL.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DAL\\ABC.DAL.csproj"
+              },
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Utility\\ABC.Utility.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Utility\\ABC.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Model\\ABC.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Model\\ABC.Model.csproj",
+        "projectName": "ABC.Model",
+        "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Model\\ABC.Model.csproj",
+        "packagesPath": "C:\\Users\\J\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Utility\\ABC.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Utility\\ABC.Utility.csproj",
+        "projectName": "ABC.Utility",
+        "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Utility\\ABC.Utility.csproj",
+        "packagesPath": "C:\\Users\\J\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DTO\\ABC.DTO.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.DTO\\ABC.DTO.csproj"
+              },
+              "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Model\\ABC.Model.csproj": {
+                "projectPath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Model\\ABC.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
