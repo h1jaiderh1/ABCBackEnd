@@ -29,5 +29,4 @@ public partial class Cliente
 
     public bool? IsActive { get; set; }
 
-    public virtual ICollection<Pedido> Pedidos { get; } = new List<Pedido>();
 }

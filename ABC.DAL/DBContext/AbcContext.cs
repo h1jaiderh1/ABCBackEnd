@@ -94,9 +94,7 @@ public partial class AbcContext : DbContext
             entity.Property(e => e.IdCliente).HasColumnName("idCliente");
             entity.Property(e => e.IsActive).HasColumnName("isActive");
 
-            entity.HasOne(d => d.IdClienteNavigation).WithMany(p => p.Pedidos)
-                .HasForeignKey(d => d.IdCliente)
-                .HasConstraintName("FK__Pedido__idClient__5535A963");
+            
         });
 
         modelBuilder.Entity<PedidoProducto>(entity =>

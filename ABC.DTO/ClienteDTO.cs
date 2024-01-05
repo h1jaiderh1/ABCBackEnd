@@ -32,6 +32,6 @@ namespace ABC.DTO
 
         public int? IsActive { get; set; }
 
-        public virtual ICollection<PedidoDTO> Pedidos { get; set; } 
+        
     }
 }
