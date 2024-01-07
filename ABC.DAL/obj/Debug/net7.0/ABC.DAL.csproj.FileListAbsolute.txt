@@ -28,3 +28,11 @@ C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.DAL\obj\Debug\net7.0\ABC.DAL.dll
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.DAL\obj\Debug\net7.0\refint\ABC.DAL.dll
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.DAL\obj\Debug\net7.0\ABC.DAL.pdb
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.DAL\obj\Debug\net7.0\ref\ABC.DAL.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\ABC.DAL.csproj.AssemblyReference.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\ABC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\ABC.DAL.AssemblyInfoInputs.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\ABC.DAL.AssemblyInfo.cs
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\ABC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\ABC.DAL.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\refint\ABC.DAL.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\ABC.DAL.pdb

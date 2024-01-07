@@ -40,3 +40,11 @@ C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.BLL\obj\Debug\net7.0\ABC.BLL.dll
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.BLL\obj\Debug\net7.0\refint\ABC.BLL.dll
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.BLL\obj\Debug\net7.0\ABC.BLL.pdb
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.BLL\obj\Debug\net7.0\ref\ABC.BLL.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.BLL\obj\Debug\net7.0\ABC.BLL.csproj.AssemblyReference.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.BLL\obj\Debug\net7.0\ABC.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.BLL\obj\Debug\net7.0\ABC.BLL.AssemblyInfoInputs.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.BLL\obj\Debug\net7.0\ABC.BLL.AssemblyInfo.cs
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.BLL\obj\Debug\net7.0\ABC.BLL.csproj.CoreCompileInputs.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.BLL\obj\Debug\net7.0\ABC.BLL.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.BLL\obj\Debug\net7.0\refint\ABC.BLL.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.BLL\obj\Debug\net7.0\ABC.BLL.pdb

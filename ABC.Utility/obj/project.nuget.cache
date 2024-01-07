@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mWBc8LSkQuRAsNU8EFiF1IT14BIv7z9PD66n9oOAXhYyTXIRWZHm9SLGZw0glk6D+ln7IlHP1sDbQTi4g27sqg==",
+  "dgSpecHash": "pw7zFYFeHgixFIce6l0B/U77Sc+naCSXFu9F/WicG1HWh8UV3PTrz9b1frmLPseZQ1ZVZrgMTTnHAw0dV+i8vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.Utility\\ABC.Utility.csproj",
+  "projectFilePath": "C:\\Users\\J\\Documents\\GitHub\\ABCBackEnd\\ABC.Utility\\ABC.Utility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

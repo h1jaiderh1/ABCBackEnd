@@ -168,3 +168,12 @@ C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.API\obj\Debug\net7.0\refint\ABC.AP
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.API\obj\Debug\net7.0\ABC.API.pdb
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.API\obj\Debug\net7.0\ABC.API.genruntimeconfig.cache
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.API\obj\Debug\net7.0\ref\ABC.API.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.API\obj\Debug\net7.0\ABC.API.csproj.AssemblyReference.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.API\obj\Debug\net7.0\ABC.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.API\obj\Debug\net7.0\ABC.API.AssemblyInfoInputs.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.API\obj\Debug\net7.0\ABC.API.AssemblyInfo.cs
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.API\obj\Debug\net7.0\ABC.API.csproj.CoreCompileInputs.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.API\obj\Debug\net7.0\ABC.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.API\obj\Debug\net7.0\ABC.API.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.API\obj\Debug\net7.0\refint\ABC.API.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.API\obj\Debug\net7.0\ABC.API.pdb

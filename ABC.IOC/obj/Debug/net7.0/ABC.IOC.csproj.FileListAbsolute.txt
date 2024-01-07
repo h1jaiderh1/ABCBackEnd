@@ -44,3 +44,11 @@ C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.IOC\obj\Debug\net7.0\ABC.IOC.dll
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.IOC\obj\Debug\net7.0\refint\ABC.IOC.dll
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.IOC\obj\Debug\net7.0\ABC.IOC.pdb
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.IOC\obj\Debug\net7.0\ref\ABC.IOC.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.IOC\obj\Debug\net7.0\ABC.IOC.csproj.AssemblyReference.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.IOC\obj\Debug\net7.0\ABC.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.IOC\obj\Debug\net7.0\ABC.IOC.AssemblyInfoInputs.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.IOC\obj\Debug\net7.0\ABC.IOC.AssemblyInfo.cs
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.IOC\obj\Debug\net7.0\ABC.IOC.csproj.CoreCompileInputs.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.IOC\obj\Debug\net7.0\ABC.IOC.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.IOC\obj\Debug\net7.0\refint\ABC.IOC.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.IOC\obj\Debug\net7.0\ABC.IOC.pdb

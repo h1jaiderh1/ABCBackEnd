@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W4BC/zJoQA1FXHCrTDoyfi2YPmw0WtRUEeMoePNSKmhZQiQrYqgNKdQrf9nHgFxvgzvQIyJ0ZTlog1bl0ErlSA==",
+  "dgSpecHash": "1SQYBco3uHAZzcte0zI+PozUigOFIviWxJ5AfY86j+cs9DByOEGZROS3xnOIkvdY09T+spIuhd51d5y2xhmP4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\J\\Documents\\GitHub\\Prueba\\APIABC\\ABC.BLL\\ABC.BLL.csproj",
+  "projectFilePath": "C:\\Users\\J\\Documents\\GitHub\\ABCBackEnd\\ABC.BLL\\ABC.BLL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
