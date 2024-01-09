@@ -36,3 +36,10 @@ C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\ABC.DAL.csproj.C
 C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\ABC.DAL.dll
 C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\refint\ABC.DAL.dll
 C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\ABC.DAL.pdb
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\bin\Debug\net7.0\ABC.DAL.deps.json
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\bin\Debug\net7.0\ABC.DAL.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\bin\Debug\net7.0\ABC.DAL.pdb
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\bin\Debug\net7.0\ABC.Model.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\bin\Debug\net7.0\ABC.Model.pdb
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\ABC.DAL.csproj.CopyComplete
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DAL\obj\Debug\net7.0\ref\ABC.DAL.dll

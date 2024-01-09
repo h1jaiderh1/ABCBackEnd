@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ABC.Model { };
+namespace ABC.Model;
 
 public partial class PedidoProducto
 {

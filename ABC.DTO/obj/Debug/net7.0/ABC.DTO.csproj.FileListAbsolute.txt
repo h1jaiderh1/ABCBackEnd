@@ -20,3 +20,14 @@ C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.DTO\obj\Debug\net7.0\ABC.DTO.dll
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.DTO\obj\Debug\net7.0\refint\ABC.DTO.dll
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.DTO\obj\Debug\net7.0\ABC.DTO.pdb
 C:\Users\J\Documents\GitHub\Prueba\APIABC\ABC.DTO\obj\Debug\net7.0\ref\ABC.DTO.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DTO\bin\Debug\net7.0\ABC.DTO.deps.json
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DTO\bin\Debug\net7.0\ABC.DTO.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DTO\bin\Debug\net7.0\ABC.DTO.pdb
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DTO\obj\Debug\net7.0\ABC.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DTO\obj\Debug\net7.0\ABC.DTO.AssemblyInfoInputs.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DTO\obj\Debug\net7.0\ABC.DTO.AssemblyInfo.cs
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DTO\obj\Debug\net7.0\ABC.DTO.csproj.CoreCompileInputs.cache
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DTO\obj\Debug\net7.0\ABC.DTO.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DTO\obj\Debug\net7.0\refint\ABC.DTO.dll
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DTO\obj\Debug\net7.0\ABC.DTO.pdb
+C:\Users\J\Documents\GitHub\ABCBackEnd\ABC.DTO\obj\Debug\net7.0\ref\ABC.DTO.dll
