@@ -15,5 +15,6 @@ namespace ABC.DTO
         public string? PrecioUnitario { get; set; }
 
         public string? PrecioTotal { get; set; }
+
     }
 }

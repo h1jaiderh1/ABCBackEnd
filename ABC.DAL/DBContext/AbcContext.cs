@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using ABC.Model;
 
-namespace ABC.DAL.DBContext;
+namespace ABC.DAL.DBContext { };
 
 public partial class AbcContext : DbContext
 {

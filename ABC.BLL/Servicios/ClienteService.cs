@@ -79,7 +79,7 @@ namespace ABC.BLL.Servicios
                 clienteEncontrado.Departamento = clienteModelo.Departamento;
                 clienteEncontrado.IsActive = clienteModelo.IsActive;
                 clienteEncontrado.FechaActualizacion = DateTime.Now.Date;
-                
+                clienteEncontrado.NumeroDocumento = clienteModelo.NumeroDocumento;
 
                 bool respuesta = await _clienteRepositorio.Editar(clienteEncontrado);
 
