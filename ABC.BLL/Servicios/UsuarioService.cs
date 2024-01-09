@@ -97,9 +97,9 @@ namespace ABC.BLL.Servicios
                 usuarioEncontrado.Nombres = usuarioModelo.Nombres;
                 usuarioEncontrado.Usuario1 = usuarioModelo.Usuario1;
                 usuarioEncontrado.Contrasena = usuarioModelo.Contrasena;
-                usuarioEncontrado.IsActive = usuarioEncontrado.IsActive;
-                usuarioEncontrado.Apellidos = usuarioEncontrado.Apellidos;
-                usuarioEncontrado.IdentificacionCiudadania = usuarioEncontrado.IdentificacionCiudadania;
+                usuarioEncontrado.IsActive = usuarioModelo.IsActive;
+                usuarioEncontrado.Apellidos = usuarioModelo.Apellidos;
+                usuarioEncontrado.IdentificacionCiudadania = usuarioModelo.IdentificacionCiudadania;
 
                 bool respuesta = await _usuarioRepositorio.Editar(usuarioEncontrado);
 

@@ -74,7 +74,7 @@ namespace ABC.BLL.Servicios
                 productoEncontrado.Cantidad = productoModelo.Cantidad;
                 productoEncontrado.ValorUnitario = productoModelo.ValorUnitario;
                 productoEncontrado.IsActive = productoModelo.IsActive;
-
+                productoEncontrado.FechaActualizacion = productoModelo.FechaActualizacion;
                 bool respuesta = await _productoRepositorio.Editar(productoEncontrado);
 
                 if (!respuesta)
